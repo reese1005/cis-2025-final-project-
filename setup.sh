@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Initialize the repository and set up the remote
-echo "# cis-2023-final-project-" >> README.md
+echo "# cis-202-final-project-" >> README.md
 
 # Initialize Git repository
 git init
